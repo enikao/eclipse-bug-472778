@@ -1,0 +1,19 @@
+target "Eclipse Bug Target"
+
+with configurePhase source requirements
+
+location "https://download.eclipse.org/releases/2019-06/" {
+	org.eclipse.xtext.sdk.feature.group
+	org.eclipse.platform.feature.group
+}
+
+location "https://download.eclipse.org/tools/orbit/downloads/drops/R20190602212107/repository/" {
+	com.google.guava
+	com.google.guava.source
+}
+
+location "https://download.eclipse.org/sirius/updates/releases/6.2.1/2019-06/" {
+	org.eclipse.sirius.interpreter.feature.feature.group
+	org.eclipse.sirius.interpreter.feature.source.feature.group
+	org.eclipse.sirius.runtime.ide.ui.feature.group
+}

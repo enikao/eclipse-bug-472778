@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Eclipse-bug
+Bundle-SymbolicName: eclipse-bug
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: eclipse-bug
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.xtext,
+ org.eclipse.sirius.common.interpreter,
+ org.eclipse.sirius.diagram.ui
