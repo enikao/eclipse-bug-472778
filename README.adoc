@@ -1,3 +1,4 @@
 = eclipse-bug-472778
 
-Example for link:https://bugs.eclipse.org/bugs/show_bug.cgi?id=472778[Eclipse Bug 472778]
+Example for 
+link:https://bugs.eclipse.org/bugs/show_bug.cgi?id=548429[Eclipse Bug 548429] (extracted from link:https://bugs.eclipse.org/bugs/show_bug.cgi?id=472778[Eclipse Bug 472778])
